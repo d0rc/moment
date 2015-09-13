@@ -1,6 +1,7 @@
 {
   "name": "moment",
   "main": "moment.js",
+  "version": "2.10.6",
   "ignore": [
     "**/.*",
     "benchmarks",
